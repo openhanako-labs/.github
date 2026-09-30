@@ -13,7 +13,7 @@ Plugins and apps for [Hana](https://github.com/liliMozi/openhanako) — 摄取 �
 
 ## 视觉 · 音频
 
-- [openhanako-audio-player](https://github.com/openhanako-labs/openhanako-audio-player) — 音乐库管理 + 播放器卡片 + 歌词横幅
+- [openhanako-audio-player](https://github.com/openhanako-labs/openhanako-audio-player) — 音乐库 · 播放器 · 歌词横幅
 - [openhanako-crystal-speech](https://github.com/openhanako-labs/openhanako-crystal-speech) — Crystal speech emote 插件
 - [openhanako-handwriting](https://github.com/openhanako-labs/openhanako-handwriting) — 手写稿生成器，文本渲染为手写风格图片
 
@@ -25,16 +25,12 @@ Plugins and apps for [Hana](https://github.com/liliMozi/openhanako) — 摄取 �
 ## 工具 · 元数据
 
 - [openhanako-gallery](https://github.com/openhanako-labs/openhanako-gallery) — 图片图库：导入 / 检索 / 标签 / 导出
-- [openhanako-webpage-archiver](https://github.com/openhanako-labs/openhanako-webpage-archiver) — 网页存档 · 内容提取 · 设计系统逆向 · 隐私审计
 - [openhanako-time-tracker](https://github.com/openhanako-labs/openhanako-time-tracker) — 时间追踪：前台窗口活动 + 安全检测 + 时间统计看板
 - [openhanako-mail](https://github.com/openhanako-labs/openhanako-mail) — Hanako mail 项目
-- [hana-git-kline](https://github.com/openhanako-labs/hana-git-kline) — 把代码库当股票图看
 
-## 实验
+## 其他
 
 - [openhanako-moshu](https://github.com/openhanako-labs/openhanako-moshu)
-- [stock-assistant](https://github.com/openhanako-labs/stock-assistant)
-- [openhanako-template](https://github.com/openhanako-labs/openhanako-template) — 项目模板仓库
 
 ---
 
