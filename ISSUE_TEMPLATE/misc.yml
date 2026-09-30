@@ -1,0 +1,10 @@
+name: 其他
+description: 讨论、提问、想法、杂项
+labels: ["待分诊"]
+body:
+  - type: textarea
+    id: content
+    attributes:
+      label: 内容
+    validations:
+      required: true
