@@ -10,7 +10,6 @@ Plugins and apps for [Hana](https://github.com/liliMozi/openhanako) — 摄取 �
 
 - [openhanako-bilibili-intake](https://github.com/openhanako-labs/openhanako-bilibili-intake) — B 站 / 小红书 / 微博 / 知乎 / 贴吧 / 抖音 / 快手 / YouTube 多平台内容摄取引擎
 - [openhanako-legado](https://github.com/openhanako-labs/openhanako-legado) — 联结开源阅读，书架 / 阅读 / 统计 / AI 画像
-- [Openhanako-mail](https://github.com/openhanako-labs/Openhanako-mail) — Hanako mail 项目
 
 ## 视觉 · 音频
 
@@ -28,6 +27,7 @@ Plugins and apps for [Hana](https://github.com/liliMozi/openhanako) — 摄取 �
 - [openhanako-gallery](https://github.com/openhanako-labs/openhanako-gallery) — 图片图库：导入 / 检索 / 标签 / 导出
 - [openhanako-webpage-archiver](https://github.com/openhanako-labs/openhanako-webpage-archiver) — 网页存档 · 内容提取 · 设计系统逆向 · 隐私审计
 - [openhanako-time-tracker](https://github.com/openhanako-labs/openhanako-time-tracker) — 时间追踪：前台窗口活动 + 安全检测 + 时间统计看板
+- [openhanako-mail](https://github.com/openhanako-labs/openhanako-mail) — Hanako mail 项目
 - [hana-git-kline](https://github.com/openhanako-labs/hana-git-kline) — 把代码库当股票图看
 
 ## 实验
